@@ -1,0 +1,62 @@
+[
+    {
+        "camp_site": "The Refuge",
+        "latitude": 36.1202009,
+        "longitude": -81.793736
+    },
+    {
+        "camp_site": "Storyteller Rock",
+        "latitude": 36.1195173,
+        "longitude": -81.7943771
+    },
+    {
+        "camp_site": "The Hermitage",
+        "latitude": 36.1170259,
+        "longitude": -81.7945198
+    },
+    {
+        "camp_site": "Streamside",
+        "latitude": 36.1178043,
+        "longitude": -81.7920225
+    },
+    {
+        "camp_site": "Daniel Boone",
+        "latitude": 36.1111743,
+        "longitude": -81.7944576
+    },
+    {
+        "camp_site": "Cliffside",
+        "latitude": 36.109933,
+        "longitude": -81.8127024
+    },
+    {
+        "camp_site": "Raven's Roost",
+        "latitude": 36.1111754,
+        "longitude": -81.808608
+    },
+    {
+        "camp_site": "Briar Patch",
+        "latitude": 36.1092826,
+        "longitude": -81.8028149
+    },
+    {
+        "camp_site": "Profile",
+        "latitude": 36.1177335,
+        "longitude": -81.815041
+    },
+    {
+        "camp_site": "Calloway Gap",
+        "latitude": 36.1088371,
+        "longitude": -81.814735
+    },
+    {
+        "camp_site": "Alpine Meadow",
+        "latitude": 36.1057708,
+        "longitude": -81.81723
+    },
+    {
+        "camp_site": "Attic Window",
+        "latitude": 36.102943,
+        "longitude": -81.820429
+    }
+]
